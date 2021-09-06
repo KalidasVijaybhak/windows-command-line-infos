@@ -1,0 +1,53 @@
+#1 to view the history of commands in that state 
+
+doskey /history
+
+
+#2 
+
+to view the list of drivers
+driverquery
+
+to view more details
+driverquery /FO list /v
+
+#3 to copy the commands details concatenate | clip to the command
+
+ex: ipconfig | clip
+
+
+#4 to get administrative provilage without using run as administrator
+
+Launch Command Prompt as an Administrator or change directory using cd C:\Windows\System32
+
+
+#5 to geterate battery repot
+Enter command powercfg/energy
+run as administrator required
+
+
+#6 to get list of installed programs
+wmic product get name
+
+
+
+#7 if computer facing an issue use this
+sfc /scannow
+
+
+#8 to find info about any command use this 
+add /? at the end of any command
+
+#9 find window product key
+type this in cmd
+
+wmic path softwarelicensingservice get OA3xOriginalProductKey
+
+#10 to get wifi password of connected network
+
+step 1: netsh wlan show profile 
+
+step 2: netsh wlan show profile Wi-Fi name key=clear
+
+step 3: loof for key content that is the pass word
+
