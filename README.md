@@ -1,2 +1,2 @@
 # Windows Command line infos
-* This repo containts tricks usefull commands for windows cmd
+* This repo contains tricks usefull commands for windows cmd
