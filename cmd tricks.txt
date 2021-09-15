@@ -59,3 +59,9 @@ step 3: loof for key content that is the pass word
 #12 creating text files 
 	hellow world > "hello world.txt"
 	
+#13 creating new directory
+	mkdir filename
+
+
+#14 deleting a file
+	del filename
