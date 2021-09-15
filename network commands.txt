@@ -1,0 +1,10 @@
+#1 netsh wlan show network
+	gives detail about current wifi network
+
+
+#2  netsh wlan show wlanreport
+	use this with administrative reight
+	it will generate a very detailed report about the network in html format.
+
+#3  netsh wlan show all 
+	gives details about port and other stuff including wifi adapter details and connected network.	
