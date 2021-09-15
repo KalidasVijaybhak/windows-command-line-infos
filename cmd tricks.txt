@@ -55,3 +55,7 @@ step 3: loof for key content that is the pass word
 #11 renaming files using cmd
 
 	ren 'file name' 'new file name'
+
+#12 creating text files 
+	hellow world > "hello world.txt"
+	
