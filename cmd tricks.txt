@@ -65,3 +65,8 @@ step 3: loof for key content that is the pass word
 
 #14 deleting a file
 	del filename
+
+#15 to display contents of text file without opening it
+	type textfile.txt
+
+	
