@@ -69,4 +69,6 @@ step 3: loof for key content that is the pass word
 #15 to display contents of text file without opening it
 	type textfile.txt
 
+#16 to open current directory
+	explorer .
 	
