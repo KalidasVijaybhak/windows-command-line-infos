@@ -1,3 +1,4 @@
+
 #1 to view the history of commands in that state 
 
 doskey /history
@@ -72,3 +73,5 @@ step 3: loof for key content that is the pass word
 #16 to open current directory
 	explorer .
 	
+#17 to list directory of specific files
+	dir *.txt
