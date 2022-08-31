@@ -7,3 +7,12 @@
   **powercfg /batteryreport**
    run as administrator required
    to generate battery report
+## Tip 3
+  **sfc /scannow**
+  run as administrator required
+  if computer facing an issue use this
+## Tip 4
+  **inserting text directly to new txtfile**
+  "insert txt">"filename.txt"
+  
+  
