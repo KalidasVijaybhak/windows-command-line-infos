@@ -14,5 +14,7 @@
 ## Tip 4
   **inserting text directly to new txtfile**
   "insert txt">"filename.txt"
-  
-  
+## Tip 5
+   **type textfile.txt**
+   to display contents of text file without opening it
+	
