@@ -30,5 +30,5 @@
    
    step 2: **netsh wlan show profile Wi-Fi name key=clear**
 
-   step 3: **loof for key content that is the pass word**
+   step 3: **look for key content that is the pass word**
 
