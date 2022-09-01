@@ -1,25 +1,27 @@
 # Windows Command line infos
 * This repo contains tricks usefull commands for windows cmd
 ## Tip 1
-   **driverquery**
+    driverquery
    
    to view the list of drivers
 ## Tip 2
-  **powercfg /batteryreport**
+    powercfg /batteryreport
   
    run as administrator required,
    to generate battery report
 ## Tip 3
-  **sfc /scannow**
+    sfc /scannow
   
   run as administrator required,
   if computer facing an issue use this
 ## Tip 4
-  **inserting text directly to new txtfile**
+
+    "insert txt">"filename.txt"
   
-  "insert txt">"filename.txt"
+  inserting text directly to new txtfile
+  
 ## Tip 5
-   **type textfile.txt**
+    type textfile.txt
    
    to display contents of text file without opening it
 ## Tip 6
@@ -33,7 +35,7 @@
    step 3: **look for key content that is the pass word**
 
 ## Tip 7
-   **dir *.txt**
+    dir *.txt
    
-    to list directory of specific files
+   to list directory of specific files
 	
