@@ -22,4 +22,13 @@
    **type textfile.txt**
    
    to display contents of text file without opening it
+## Tip 6
 	
+	 to get wifi password of connected network
+
+	step 1: **netsh wlan show profile**
+
+	step 2: **netsh wlan show profile Wi-Fi name key=clear**
+
+	step 3: **loof for key content that is the pass word**
+
