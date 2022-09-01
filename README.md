@@ -32,3 +32,8 @@
 
    step 3: **look for key content that is the pass word**
 
+## Tip 7
+   **dir *.txt**
+   
+    to list directory of specific files
+	
