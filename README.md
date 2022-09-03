@@ -48,4 +48,5 @@
    to get system information
 ## Tip 10
      netsh wlan show network
-    gives detail about current wifi network
+     
+   gives detail about current wifi network
