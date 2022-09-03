@@ -44,5 +44,6 @@
 
 ## tip 9
      systeminfo
-    to get system information
+     
+   to get system information
 	
