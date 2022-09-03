@@ -41,4 +41,8 @@
 ## Tip 8
     explorer .	
    to open current directory
+
+## tip 9
+     systeminfo
+    to get system information
 	
