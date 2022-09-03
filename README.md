@@ -38,4 +38,7 @@
     dir *.txt
    
    to list directory of specific files
+## Tip 8
+    explorer .	
+   to open current directory
 	
