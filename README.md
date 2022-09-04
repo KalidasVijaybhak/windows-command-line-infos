@@ -50,3 +50,7 @@
      netsh wlan show network
      
    gives detail about current wifi network
+## Tip 11
+      net user
+   to get user of the computer
+	
