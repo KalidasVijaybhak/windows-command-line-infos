@@ -53,4 +53,7 @@
 ## Tip 11
       net user
    to get user of the computer
-	
+## Tip 12
+      netsh wlan show all 
+      
+    gives details about port and other stuff including wifi adapter details and connected network.	
