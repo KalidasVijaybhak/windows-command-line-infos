@@ -56,4 +56,4 @@
 ## Tip 12
       netsh wlan show all 
       
-    gives details about port and other stuff including wifi adapter details and connected network.	
+   gives details about port and other stuff including wifi adapter details and connected network.	
