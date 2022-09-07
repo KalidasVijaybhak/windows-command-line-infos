@@ -57,3 +57,6 @@
       netsh wlan show all 
       
    gives details about port and other stuff including wifi adapter details and connected network.	
+## Tip 13
+	taskmgr
+    open taskmanager
