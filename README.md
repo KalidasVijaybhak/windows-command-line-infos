@@ -62,6 +62,6 @@
     
    open taskmanager
 ## Tip 14
-	find window product key
- 	
-   wmic path softwarelicensingservice get OA3xOriginalProductKey
+    wmic path softwarelicensingservice get OA3xOriginalProductKey
+
+find window product key
